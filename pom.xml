@@ -99,7 +99,7 @@
                     <linkXref>true</linkXref>
                     <sourceEncoding>UTF8</sourceEncoding>
                     <minimumTokens>30</minimumTokens>
-                    <targetJdk>1.9</targetJdk>
+                    <targetJdk>1.7</targetJdk>
                 </configuration>
                 <executions>
                     <execution>
